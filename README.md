@@ -1,9 +1,8 @@
 # Music Streaming Website Frontend
 
-![Project Image](./readme_image.png)
+
 
 > This is a Music Streaming Website's FrontEnd similar to spotify, saavn etc.
-> You can view the project here: https://lakshdhamija.github.io/music_Streaming_Website_Frontend-HTML-CSS/
 
 ---
 
