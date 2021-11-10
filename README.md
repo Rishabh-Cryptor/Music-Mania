@@ -25,10 +25,6 @@ This frontEnd project was made only using HTML and CSS. It has been made fully r
 
 [Back To The Top](#read-me-template)
 
----
 
-## Author Info
-
-- LinkedIn - [@lakshDhamija](https://linkedin.com/in/laksh-dhamija)
 
 [Back To The Top](#read-me-template)
